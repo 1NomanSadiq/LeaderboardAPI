@@ -1,0 +1,45 @@
+Please Wait...
+Leaderboard of the requested month already exists
+
+Leaderboard:
+628b514c1ba3abddabf15fe8 - 1 - 5400
+628cb964d952cdc1fa553ae5 - 2 - 2500
+628b514c1ba3abddabf15fe3 - 3 - 1500
+628bd088f833c9b49877a580 - 4 - 1200
+628cbccfd952cdc1fa553b23 - 5 - 550
+628bd088f833c9b49877a580 - 6 - 300
+628cb791d952cdc1fa553ac7 - 7 - 300
+628cb8c7d952cdc1fa553ada - 8 - 300
+628c9727d952cdc1fa553aa5 - 9 - 300
+628bd088f833c9b49877a580 - 10 - 300
+628cbccfd952cdc1fa553b23 - 11 - 300
+628cb6dcd952cdc1fa553ab5 - 12 - 250
+628cb8c7d952cdc1fa553ada - 13 - 250
+628cbce4d952cdc1fa553b25 - 14 - 250
+628b81b6f833c9b49877a568 - 15 - 200
+628b6159f833c9b49877a555 - 16 - 200
+628cb785d952cdc1fa553ac4 - 17 - 200
+
+Leaderboard for user 628bd088f833c9b49877a580 :
+628bd088f833c9b49877a580 - 4 - 1200
+628bd088f833c9b49877a580 - 6 - 300
+628bd088f833c9b49877a580 - 10 - 300
+628bd088f833c9b49877a580 - 102 - 100
+628bd088f833c9b49877a580 - 103 - 100
+
+
+Rewards:
+628b514c1ba3abddabf15fe8 - First Prize - 0
+628cb964d952cdc1fa553ae5 - Second Prize - 0
+628b514c1ba3abddabf15fe3 - Third Prize - 0
+628bd088f833c9b49877a580 - $25 - 25
+628cbccfd952cdc1fa553b23 - $25 - 25
+628bd088f833c9b49877a580 - $25 - 25
+628cb791d952cdc1fa553ac7 - $25 - 25
+628cb8c7d952cdc1fa553ada - $25 - 25
+628c9727d952cdc1fa553aa5 - $25 - 25
+628b81b6f833c9b49877a568 - Consolation Prize - 12
+628b859ef833c9b49877a56d - Consolation Prize - 12
+
+Rewards for user 628b514c1ba3abddabf15fe3:
+Third Prize - 0
